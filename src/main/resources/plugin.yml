@@ -1,0 +1,8 @@
+name: MinePromo
+version: '1.1'
+main: org.dmitriykotik.minePromo.MinePromo
+api-version: '1.21'
+prefix: MPromo
+authors: [ dmitriykotik ]
+description: The plugin will help you create promotional codes that can be activated on the server.
+website: https://dmitriykotik.ru
