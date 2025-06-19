@@ -6,3 +6,16 @@ prefix: MPromo
 authors: [ dmitriykotik ]
 description: The plugin will help you create promotional codes that can be activated on the server.
 website: https://dmitriykotik.ru
+
+commands:
+  promo:
+    description: MinePromo plugin.
+    usage: /promo
+
+permissions:
+  minepromo.user:
+    description: Access to the user commands
+    default: true
+  minepromo.admin:
+    description: Access to the admin commands
+    default: op
