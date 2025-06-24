@@ -1,5 +1,5 @@
 name: MinePromo
-version: '1.1'
+version: '1.2'
 main: org.dmitriykotik.minePromo.MinePromo
 api-version: '1.21'
 prefix: MPromo

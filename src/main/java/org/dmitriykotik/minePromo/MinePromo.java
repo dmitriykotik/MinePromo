@@ -23,7 +23,7 @@ public final class MinePromo extends JavaPlugin {
         log.info(" - Initialization of variables...");
         Initialize();
         log.info(" - Done!");
-        log.info(" - Adding commands to the DoorLocker class...");
+        log.info(" - Adding commands to the MinePromo class...");
         this.getCommand("promo").setExecutor(new MinePromo_Commands(this, manager));
         this.getCommand("promo").setTabCompleter(new MinePromo_TabCompleter());
         log.info(" - Done!");
